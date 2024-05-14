@@ -1,1 +1,18 @@
-console.log("Hello World!")
+const express = require('express')
+const app = express()
+
+app.get('/', function (req, res) {
+  res.send('Hello World')
+})
+
+app.get('/bonjour', function (req, res){
+  res.send('Bonjour le monde')
+})
+
+app.get('/oi', function (req, res){
+  res.send('Olá mundo!')
+})
+
+app.listen(3000, function(){
+  console.log("Aplicação rodando em http://localhost:3000")
+})

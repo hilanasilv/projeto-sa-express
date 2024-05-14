@@ -22,3 +22,5 @@
 - Fiz a instalação do npm com o comando "npm install", esse comando criou o "package-lock.json"
 - Por último, fiz um commit enviando as alterações do projeto para o GitHub.
 - Fiz a instalação do Express com "npm i express"
+- Fiz a criação de endpoints e do script para rodar o projeto
+- Por último, fiz um commit enviando as alterações do projeto para o GitHub.
