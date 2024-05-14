@@ -1,0 +1,12 @@
+{
+  "name": "projeto-sa-express",
+  "version": "1.0.0",
+  "description": "## Hello World com ExpressJs  ### Preparação do ambiente  > Offline (local) - Instalar o Vscode, NodeJS e NPM na máquina. - Executar o NPM para criar o projeto (npm init) - Criar um arquivo \"index.js\" e executar com Node (node index.js) - Subir o projeto no GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
